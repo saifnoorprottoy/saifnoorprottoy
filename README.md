@@ -1,9 +1,11 @@
-- 👋 I mainly explore/develop various program analysis techniques and large-scale system analysis tools that may serve various purposes depending on the context. 
+- 👋 I am an independent security researcher currently trying to navigate the security startup realms by building tools and solutions by engaging various methodologies. Besides I am also working as a vulnerability researcher (Hypervisor and Container Focused, mostly ) and bounty hunter for my livelihood and to support my startups at the same time.
  
 
-- 👀 I am an early adopter of the Rust Programming Language (circa 2015) and very recently I have started to use the Clojure Language at the same time I am familiar with the C and Python Programming Languages. Besides, I like to read source code, a lot probably because of the nature of the work I do. My current/future endeavors include interacting with the inner world of systems like CDN(s), WebAPIs, OS/Hypervisors, eBPF, Netfilter, Compiler(s) & Interpreter(s), Language Libraries, Firmware(s) and io_uring.  
+- 👀 Academically I am inclined towards language based security and designing programming language technologies that can be used for security analysis and deals with things like memory safety. 
   
-- ✨ I am very much obssesed with Startups. Having said that, I am a huge fan of electronic music and might also become an electronic musician one day.    
+- ✨ I am an early adapter of Rust (2015). Besides I am using Python and Clojure for my mundane tasks. Did I mention Weird Machines??
+
+-  👉 I pretty much obsessed with Startups. Having said all of that, I am a huge fan of electronic music and might also become an electronic musician one day.  
 
 - 🌱 Thank you for your kind visit! :D Have a nice day!
 
