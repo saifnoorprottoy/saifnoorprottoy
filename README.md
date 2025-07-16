@@ -1,4 +1,6 @@
-- 👋 I am an independent security researcher currently trying to navigate the security startup realm by building tools and solutions engaging various methodologies. Besides I am also working as a vulnerability researcher and bounty hunter for my livelihood and to support my startups at the same time focusing on the Web and the hypervisors & Containers, mostly .
+- 🔨 I am building here : https://gitlab.com/elixir-networks
+  
+- 👋 Currently I am working as an independent security researcher (vulnerability research and bug bounty hunter) for my livelihood and to support my startup(s) [stealth mode]. 
  
 
 - 👀 Academically I am inclined towards language based security and designing programming language technologies that can be used for security analysis and deals with things like memory safety. 
