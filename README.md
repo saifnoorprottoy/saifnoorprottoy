@@ -3,7 +3,7 @@
 - 👋 Currently I am working as an independent security researcher (vulnerability research and bug bounty hunter) for my livelihood and to support my startup(s) [stealth mode]. 
  
 
-- 👀 Academically I am inclined towards language based security and designing programming language technologies that can be used for security analysis and deals with things like memory safety. 
+- 👀 Academically I am inclined towards language-based security and designing language technologies that can be used for safety & security analysis, which also might deal with things like memory safety. 
   
 - ✨ I am an early adapter of Rust (2015). Besides I am using Python and Clojure for my mundane tasks. Did I mention Weird Machines??
 
