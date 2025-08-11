@@ -7,7 +7,7 @@
   
 - ✨ I am an early adapter of Rust (2015). Besides I am using Python and Clojure for my mundane tasks. Did I mention Weird Machines??
 
--  👉 I pretty much obsessed with Startups. Having said all of that, I am a huge fan of electronic music and might also become an electronic musician one day.  
+-  👉 I pretty much obsessed with Startups. Having said all of that, I am a huge fan of electronic music and might also become an electronic musician one day or a race car driver
 
 - 🌱 Thank you for your kind visit! :D Have a nice day!
 
