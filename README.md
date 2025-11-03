@@ -1,4 +1,4 @@
-📌 ⚔ **I'm not seeking job opportunities** ⚔ 
+
 
 🔨 Building at: https://gitlab.com/elixir-networks 🔨
 
